@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:28,9XM
+#EXTVLCOPT:network-caching=1000
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:22,COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:0,B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:0,Bollywood-HD-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:50,Bollywood-Classic-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:21,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:21,SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:102,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:0,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:0,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:22,STAR UTSAV HD
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:0,COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:7,SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:21,STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:22,&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8

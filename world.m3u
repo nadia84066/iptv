@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:60,Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:54,Clarity 4K (2160p)
+#EXTVLCOPT:network-caching=1000
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:0,Wild Earth
+#EXTVLCOPT:network-caching=1000
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:60,Smithsonian Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
+#EXTINF:102,Reuters (1080p)
+#EXTVLCOPT:network-caching=1000
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:100,Nimbus Playout
+#EXTVLCOPT:network-caching=1000
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:30,DOCUBAY
+#EXTVLCOPT:network-caching=1000
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+#EXTINF:60,Xplore
+#EXTVLCOPT:network-caching=1000
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:60,Rock Extreme (576p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:60,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:40,MY Cinema Asia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+#EXTINF:40,My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+#EXTINF:60,Family Flix
+#EXTVLCOPT:network-caching=1000
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:36, K MOVIES
+#EXTVLCOPT:network-caching=1000
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:36, NEW K.MOVIES
+#EXTVLCOPT:network-caching=1000
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:40,My Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:53,MovieSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:60,HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+#EXTINF:60,CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:60,My Cinema Europe 
+http://210.210.155.37/uq2663/h/h18/index.m3u8

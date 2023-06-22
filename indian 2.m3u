@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:20,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:0,COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:0,&TV
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:22,SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:22,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0, Star Bharat HD 
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:0,COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:0,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:0,STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:0,&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:0, Music Mastii
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0,9XM
+#EXTVLCOPT:network-caching=1000
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:0,Artist Aloud
+#EXTVLCOPT:network-caching=1000
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:0,DilSe
+#EXTVLCOPT:network-caching=1000
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:0,KADAK Hits
+#EXTVLCOPT:network-caching=1000
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:0,POP Patakha
+#EXTVLCOPT:network-caching=1000
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:0, Mtv Beats
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0, Mtv
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:18,Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0,ZING
+http://208.86.19.13:81/634.stream/index.m3u8
+#EXTINF:0,HASI
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:0,B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:0,ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:0,Bollywood-HD-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:0,Bollywood-Classic-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:0,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:0,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:0,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:0,DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+#EXTINF:0,ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:0,BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:0,GOLDMINES
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:0,HINDI MOVIES
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+#EXTINF:0,AVA SERIES
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:0,STAR BHARAT HD
+http://180.178.188.152:8000/play/a010
+#EXTINF:0,Animal Planet HD
+http://180.178.188.152:8000/play/a011
+#EXTINF:0,STAR GOLD HD
+http://180.178.188.152:8000/play/a012
+#EXTINF:0,History TV18
+http://180.178.188.152:8000/play/a013
+#EXTINF:0,Star Gold Select
+http://180.178.188.152:8000/play/a014
+#EXTINF:0,SONY BBC EARTH HINDI
+http://180.178.188.152:8000/play/a015
+#EXTINF:0,SONY PIX HD
+http://180.178.188.152:8000/play/a016
+#EXTINF:0,&PICTURES HD
+http://180.178.188.152:8000/play/a017
+#EXTINF:0,COLORS INFINITY
+http://180.178.188.152:8000/play/a01b
+#EXTINF:0,&Prive HD 
+http://180.178.188.152:8000/play/a01d
+#EXTINF:0,FOX LIFE HD
+http://180.178.188.152:8000/play/a01t
+#EXTINF:0,&TV HD
+http://180.178.188.152:8000/play/a01u
+#EXTINF:0,STAR PLUS HD 2
+http://180.178.188.152:8000/play/a00a
+#EXTINF:0,STAR PLUS HD 3
+http://180.178.188.152:8000/play/a00m
+#EXTINF:0,ZEE TV HD
+http://180.178.188.152:8000/play/a00b
+#EXTINF:0,SONY HD
+http://180.178.188.152:8000/play/a00e
+#EXTINF:0,SONY HD2
+http://180.178.188.152:8000/play/a00q
+#EXTINF:0,COLORS HD
+http://180.178.188.152:8000/play/a00o
+#EXTINF:0,&FLIX HD
+http://180.178.188.152:8000/play/a00p
+#EXTINF:0,ZEE CINEMA HD
+http://180.178.188.152:8000/play/a00z
+#EXTINF:0,NAT Geo Wild HD
+http://180.178.188.152:8000/play/a00i
+#EXTINF:0,STAR WORLD HD
+http://180.178.188.152:8000/play/a00b
+#EXTINF:0,bindass
+http://180.178.188.152:8000/play/a063
+#EXTINF:0,Boogle Bollywood
+#EXTVLCOPT:network-caching=1000
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
