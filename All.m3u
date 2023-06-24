@@ -1,0 +1,403 @@
+#EXTM3U
+#EXTINF:9,GREEN ENTERTAINMENT
+http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
+#EXTINF:9,Bravo Naya
+http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
+#EXTINF:0,Bravo Sub Rung
+http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
+#EXTINF:0,Bravo Family
+http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
+#EXTINF:0,Bravo Now
+http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
+#EXTINF:0,Bravo Islamic
+http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
+#EXTINF:0,Aaj News
+http://58.65.194.14:1935/live/AajNews.stream/playlist.m3u8
+#EXTINF:0,Dunya News
+http://58.65.194.14:1935/live/DunyaNews.stream/playlist.m3u8
+#EXTINF:0,ARY NEWS
+http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
+#EXTINF:0,BOL NEWS
+http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
+#EXTINF:0,GNN HD
+http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
+#EXTINF:0,Neo News
+http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
+#EXTINF:0,Geo news
+http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
+#EXTINF:0,HUM News
+http://58.65.194.14:1935/live/HUM-News.stream/playlist.m3u8
+#EXTINF:0,Samaa
+http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
+#EXTINF:0,Express News
+http://58.65.194.14:1935/live/express.stream/playlist.m3u8
+#EXTINF:0,Channel 24
+http://58.65.194.14:1935/live/Channel24.stream/playlist.m3u8
+#EXTINF:0,News One
+http://58.65.194.14:1935/live/News-One.stream/playlist.m3u8
+#EXTINF:0,92 news
+http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
+#EXTINF:0,PTV News
+http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
+#EXTINF:0,Dawn News
+http://58.65.194.14:1935/live/Dawn-News-480p.stream/playlist.m3u8
+#EXTINF:0,Lahore News
+http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
+#EXTINF:0,SindhTV News
+http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
+#EXTINF:0,Capital TV
+http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
+#EXTINF:0,ABB Takk
+http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
+#EXTINF:0,Such TV
+http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
+#EXTINF:0,CNA
+http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
+#EXTINF:0,Bloomberg
+http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
+#EXTINF:0,Al Araybia
+http://58.65.194.14:1935/live/Al%20Araybia.stream/playlist.m3u8
+#EXTINF:0,TRT World HD
+http://58.65.194.14:1935/live/TRTWorldHD.stream/playlist.m3u8
+#EXTINF:0,Al Jazeera
+http://58.65.194.14:1935/live/AlJazeera.stream/playlist.m3u8
+#EXTINF:0,France 24
+http://58.65.194.14:1935/live/France24.stream/playlist.m3u8
+#EXTINF:0,Euro News
+http://58.65.194.14:1935/live/Euro-news.stream/playlist.m3u8
+#EXTINF:0,BBC World
+http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
+#EXTINF:0,CNN
+http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
+#EXTINF:0,DW News
+http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
+#EXTINF:0,NBC GOLF
+http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
+#EXTINF:0,AD Sports 3 HD
+http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
+#EXTINF:0,CNBC HD
+http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
+#EXTINF:0,AD Sports 4 HD
+http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
+#EXTINF:0,Extreme Sports
+http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
+#EXTINF:0,AD Sports 2 HD
+http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
+#EXTINF:0,Euro Sports 2
+http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
+#EXTINF:0,Euro Sports 1
+http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
+#EXTINF:0,ASports 1
+http://203.101.163.5:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:0,ASports 2
+http://192.168.246.134:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:0,ASports 3
+http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
+#EXTINF:0,Bein Sports 3
+http://58.65.194.14:1935/live/bein-sports-13.stream/playlist.m3u8
+#EXTINF:0,Bein Sports 5
+http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
+#EXTINF:0,Bein Sports 2
+http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
+#EXTINF:0,Bein Sports 1
+http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
+#EXTINF:0,Bein Sports
+http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
+#EXTINF:0,Bein Sports 3 PREMIUM
+http://58.65.194.14:1935/live/BEIN-SPORTS-HD-1-PREMIUM.stream/playlist.m3u8
+#EXTINF:0,PTV Sports 3
+http://192.168.246.134:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:0,PTV Sports 2
+http://192.168.246.102:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:0,PTV Sports 1
+http://203.101.163.5:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:0,Ten Sports 2
+http://192.168.246.102:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:0,Ten Sports 3
+http://192.168.246.134:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:0,Ten Sports 1
+http://203.101.163.5:1935/live/Tensports.stream/playlist.m3u8
+#EXTINF:0,Geo Super 
+http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
+#EXTINF:0,Sindh TV
+http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
+#EXTINF:0,ATV
+http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
+#EXTINF:0,APlus
+http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
+#EXTINF:0,PTV National
+http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
+#EXTINF:0,Hum Sitaray
+http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
+#EXTINF:0,Geo Khani
+http://58.65.194.14:1935/live/Geo%20Khani.stream/playlist.m3u8
+#EXTINF:0,Aaj Ent
+http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
+#EXTINF:0,PTV Home
+http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
+#EXTINF:0,ARY Zindagi
+http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
+#EXTINF:0,TV One
+http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
+#EXTINF:0,Play Entertainment
+http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
+#EXTINF:0,BOL Entertainment
+http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
+#EXTINF:0,Geo Entertainment
+http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
+#EXTINF:0,Ary Digital
+http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+#EXTINF:0,Express Entertainment
+http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
+#EXTINF:0,Hum TV
+http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
+#EXTINF:0,Urdu 1
+http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
+#EXTINF:0,Hum Masala
+http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+#EXTINF:0,Karbala TV
+http://58.65.194.14:1935/live/Karbala-TV.stream/playlist.m3u8
+#EXTINF:0,Hadi TV
+http://58.65.194.14:1935/live/Hadi-TV.stream/playlist.m3u8
+#EXTINF:0,Al Sunnah HD
+http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
+#EXTINF:0,Al Quran Al Kareem
+http://58.65.194.14:1935/live/Al-Quran-Al-Kareem.stream/playlist.m3u8
+#EXTINF:0,Peace tv
+http://58.65.194.14:1935/live/peace_tv.stream/playlist.m3u8
+#EXTINF:0,ARY QTV
+http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
+#EXTINF:0,Madani Channel
+http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
+#EXTINF:0,Arrehman Arreheem
+http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
+#EXTINF:0,Travel Channel HD
+http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
+#EXTINF:0,BBC BRIT
+http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
+#EXTINF:0,GEM FOOD
+http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
+#EXTINF:0,Discovery Science HD
+http://58.65.194.14:1935/live/Discovery-Science-HD.stream/playlist.m3u8
+#EXTINF:0,Discovery ID HD
+http://58.65.194.14:1935/live/Discovery-ID-HD.stream/playlist.m3u8
+#EXTINF:0,Arirang
+http://58.65.194.14:1935/live/Arirang.stream/playlist.m3u8
+#EXTINF:0,BBC First
+http://58.65.194.14:1935/live/bbcfirst.stream/playlist.m3u8
+#EXTINF:0,BBC Earth HD
+http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
+#EXTINF:0,DTX HD
+http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
+#EXTINF:0,CGTN
+http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
+#EXTINF:0,SCIFI
+http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
+#EXTINF:0,NatGeo People HD
+http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
+#EXTINF:0,National Geographic HD
+http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
+#EXTINF:0,Jalwa
+http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
+#EXTINF:0,ARY Musik
+http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
+#EXTINF:0,CBS Reality
+http://58.65.194.14:1935/live/Oxygene-TV.stream/playlist.m3u8
+#EXTINF:0,CBS EUROPA
+http://58.65.194.14:1935/live/cbseuropa.stream/playlist.m3u8
+#EXTINF:0,WB TV
+http://58.65.194.14:1935/live/tnt.stream/playlist.m3u8
+#EXTINF:0,AXN SPIN HD
+http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
+#EXTINF:0,AXN HD
+http://58.65.194.14:1935/live/AXN.stream/playlist.m3u8
+#EXTINF:0,MBC MAX
+http://58.65.194.14:1935/live/MBCMax.stream/playlist.m3u8
+#EXTINF:0,MBC ACTION HD
+http://58.65.194.14:1935/live/MBC-Action-HD.stream/playlist.m3u8
+#EXTINF:0,MBC 2 HD
+http://58.65.194.14:1935/live/MBC2HD.stream/playlist.m3u8
+#EXTINF:0,MBC 4 HD
+http://58.65.194.14:1935/live/MBC-4.stream/playlist.m3u8
+#EXTINF:0,NHK WORLD HD
+http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
+#EXTINF:0,AMC HD
+http://58.65.194.14:1935/live/OSN%20Series%20First%20HD.stream/playlist.m3u8
+#EXTINF:0,PNN NEWS
+http://58.65.194.14:1935/live/13%20Ulica%20HD.stream/playlist.m3u8
+#EXTINF:0,Comedy Central HD
+http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
+#EXTINF:0,Comedy Central Family
+http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
+#EXTINF:0,FOX HD
+http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
+#EXTINF:0,FOX Comedy
+http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
+#EXTINF:0,Film World / VU1
+http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
+#EXTINF:0,DUBAI ONE
+http://58.65.194.14:1935/live/Firemovie.stream/playlist.m3u8
+#EXTINF:0,HBO HD
+http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
+#EXTINF:0,HBO2 HD
+http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
+#EXTINF:0,HBO3 HD
+http://58.65.194.14:1935/live/AD%20Sports%202%20HD.stream/playlist.m3u8
+#EXTINF:0,OSN MOVIOES
+http://58.65.194.14:1935/live/HBO-3-HD.stream/playlist.m3u8
+#EXTINF:0,MTV LIVE
+http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
+#EXTINF:0,HISTORY
+http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
+#EXTINF:0,GEM ONYX
+http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
+#EXTINF:0,NICK MUSIC
+http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:60,Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:54,Clarity 4K (2160p)
+#EXTVLCOPT:network-caching=1000
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:0,Wild Earth
+#EXTVLCOPT:network-caching=1000
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:60,Smithsonian Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
+
+#EXTINF:60,INWILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,CGTN Documentary
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298511
+#EXTINF:0,Crime+ Investigation
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165052
+#EXTINF:30,BIZNET ADVENTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:60, MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:102,Reuters (1080p)
+#EXTVLCOPT:network-caching=1000
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:100,Nimbus Playout
+#EXTVLCOPT:network-caching=1000
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:60,Xplore
+#EXTVLCOPT:network-caching=1000
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:60,Rock Extreme (576p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:60,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:40,MY Cinema Asia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+#EXTINF:40,My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+#EXTINF:60,Family Flix
+#EXTVLCOPT:network-caching=1000
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:36, K MOVIES
+#EXTVLCOPT:network-caching=1000
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:36, NEW K.MOVIES
+#EXTVLCOPT:network-caching=1000
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:40,My Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:60,MovieSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:60,HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+#EXTINF:60,CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:60,My Cinema Europe 
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:60, HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:60, HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+#EXTINF:60, THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+
+
+
+
+
+#EXTINF:23,COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:0,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:20,SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:24,ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:60,Bollywood-HD-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:50,Bollywood-Classic-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:23,ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:23,SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:102,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:60,BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:20,STAR UTSAV HD
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:21,SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:20,&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:24,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:24,ZEE TV HD
+http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
+#EXTINF:13,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:22,STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:23, Star Bharat HD 
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:38, Music Mastii
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:28,9XM
+#EXTVLCOPT:network-caching=1000
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:32,9XM
+#EXTVLCOPT:network-caching=1000
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:23, Mtv Beats
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:10,MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:8,Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
+
+
+#EXTINF:30,TRAVEL XP
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8
+
+
