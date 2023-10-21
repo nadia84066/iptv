@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:10,GREEN ENTERTAINMENT
 http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
+#EXTINF:0,Ary Digital
+http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+#EXTINF:0,BOL Entertainment
+http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
+#EXTINF:0,Geo Entertainment
+http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
+#EXTINF:0,Express Entertainment
+http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
+#EXTINF:0,Play Entertainment
+http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
+#EXTINF:0,Hum TV
+http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
+#EXTINF:0,Aaj Ent
+http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
+#EXTINF:0,ATV
+http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
+#EXTINF:0,APlus
+http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
+#EXTINF:0,Urdu 1
+http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
+#EXTINF:0,Hum Masala
+http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+#EXTINF:0,PTV National
+http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
+#EXTINF:0,Hum Sitaray
+http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
+#EXTINF:0,Geo Khani
+http://58.65.194.14:1935/live/Geo%20Khani.stream/playlist.m3u8
+#EXTINF:0,PTV Home
+http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
+#EXTINF:0,ARY Zindagi
+http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
+#EXTINF:0,TV One
+http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
 #EXTINF:9,Bravo Naya
 http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
 #EXTINF:0,Bravo Sub Rung
@@ -121,40 +155,6 @@ http://203.101.163.5:1935/live/Tensports.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:0,Sindh TV
 http://58.65.194.14:1935/live/Sindh-TV.stream/playlist.m3u8
-#EXTINF:0,ATV
-http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
-#EXTINF:0,APlus
-http://58.65.194.14:1935/live/APlus.stream/playlist.m3u8
-#EXTINF:0,PTV National
-http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
-#EXTINF:0,Hum Sitaray
-http://58.65.194.14:1935/live/Hum-sitaray.stream/playlist.m3u8
-#EXTINF:0,Geo Khani
-http://58.65.194.14:1935/live/Geo%20Khani.stream/playlist.m3u8
-#EXTINF:0,Aaj Ent
-http://58.65.194.14:1935/live/Aaj-Ent.stream/playlist.m3u8
-#EXTINF:0,PTV Home
-http://58.65.194.14:1935/live/PTV-Home.stream/playlist.m3u8
-#EXTINF:0,ARY Zindagi
-http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
-#EXTINF:0,TV One
-http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
-#EXTINF:0,Play Entertainment
-http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
-#EXTINF:0,BOL Entertainment
-http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
-#EXTINF:0,Geo Entertainment
-http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
-#EXTINF:0,Ary Digital
-http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
-#EXTINF:0,Express Entertainment
-http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
-#EXTINF:0,Hum TV
-http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
-#EXTINF:0,Urdu 1
-http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
-#EXTINF:0,Hum Masala
-http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
 #EXTINF:0,Karbala TV
 http://58.65.194.14:1935/live/Karbala-TV.stream/playlist.m3u8
 #EXTINF:0,Hadi TV
@@ -255,6 +255,8 @@ http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:0,NICK MUSIC
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
+
+
 #EXTINF:60,Love Nature 4K
 #EXTVLCOPT:network-caching=1000
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
