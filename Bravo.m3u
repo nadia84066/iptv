@@ -255,3 +255,54 @@ http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
 #EXTINF:0,NICK MUSIC
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
+#EXTINF:60,Desi Play
+#EXTVLCOPT:network-caching=1000
+https://desiplaylive.akamaized.net/playlist1080-p.m3u8
+#EXTINF:54,Bollywood 4U
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/882a8b90-41b0-470b-bbae-085aa10d306c/2.m3u8?ads.title=BOLLYWOOD-4U-ENG_yupptv&ads.partner=yupptv
+#EXTINF:54,Bollywood Hungama
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/b2d2699c-49a0-4602-b1b4-bdca890c2e8e/2.m3u8
+#EXTINF:54,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:24,Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:28,MUSIC INDIA1
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStgjSCdjtme4Zt1uXnLDUwLnrBMq2vw14tMjStKnnm1PmzwS1CvzRsK9JvLzdvfHzD2jesNfwmezAtvrcrvnuBhvssgH1vuHREvrgvJzAmhHjyKrkEvriCe5AAKzdyuHgv1fyyZftm3a0uJfwq2rhnhHImKu5ufe9pq&auth=b5e441824106a6f98352f320453fbb176b0402d379e5b9771930a0ed6d90f06f
+#EXTINF:28,MUSIC INDIA2
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:0,MTV BEATS HD1
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/MTV_Beats_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+#EXTINF:0,MTV BEATS HD2
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61af0664fcc32a3b0d02c83639137d25470f48ba0c8bbca9f709a56a78b85958b65962f709cff4f2589d9e1bf79e2faf2640f1fcca27f7be2975decd9152b8b0f0f034c1d65b5338ef454f75031d60f9cb77f20352d4ac574b9df6791e7690c32f&token=
+#EXTINF:0,Zoom 1
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/7606406a-720a-4f2a-8cb5-20015cd8a842/0.m3u8
+#EXTINF:0,ZOOM 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=58784&ads.show_id=1809&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Zoom&ads.episodetitle=Zoom&ads.keywords=zoom%20tv%2Ctimes%20now&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
+#EXTINF:0,TLC
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrftLzrBLj1tvC5Afbumd0&auth=1ec0667c4e82e3a9a7f2a7af7f37269445eb555ebdc658b1812f52260a850d56
+#EXTINF:0,DISCOVERY SCIENCE
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
+#EXTINF:0,DISCOVERY HD
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrivLzrBLj1tvC5Afbumd0&auth=710e069a06b4cf70161ac39f905d953e398c7194a5b1132d3f9a2ce6920ccc8d
+#EXTINF:0,ANIMAL PLANET
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMrfDfzrBLj1tvC5Afbumd0&auth=64f07acd812f61f7de18919ed6ee366d55b2f4dd61af2225d1551dcf4114e83a
+#EXTINF:54,SONY MAX HD
+https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st%3D1702630337%7Eexp%3D1702673537%7Eacl%3D%2F%2A%7Edata%3D72.255.58.200-WEB%7Ehmac%3D7e0790e8f3c06c81e106a62563fbb5d7cc804131c95eac1bef0c57d7cf3bafc2
+#EXTINF:0,Travelxp
+http://95.111.193.211:8106/play/a01o/index.m3u8
+#EXTINF:0,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
