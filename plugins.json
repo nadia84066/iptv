@@ -1,24 +1,25 @@
 [
-{
-        "iconUrl": "https://bollyflix-cdn.store/wp-content/uploads/2023/05/Bollyflix-movies.png",
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "jarFileSize": 116616,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 23046,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 26580,
         "status": 1,
         "language": "hi",
         "authors": [
-            "megix"
+            "Phisher98"
         ],
         "tvTypes": [
-            "TvSeries",
             "Movie",
-            "AsianDrama",
-            "Anime"
+            "TvSeries",
+            "Cartoon"
         ],
-        "version": 15,
-        "internalName": "Bollyflix",
-        "description": "Movies and Series upto 4K",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
-        "name": "Bollyflix"
+        "version": 13,
+        "internalName": "AllMovieLandProvider",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
+        "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
+        "name": "AllMovieLandProvider"
     },
 ]
