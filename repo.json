@@ -1,0 +1,8 @@
+{
+    "name": "Phisher Repo",
+    "description": "Phisher Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/nadia84066/iptv/refs/heads/main/plugins.json"
+    ]
+  }
